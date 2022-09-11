@@ -2,4 +2,4 @@
 This is an example of a simple service in go. Includes a makefile to 
 do things like build, run and other development actions.
 
-The only dependency needed to use it is having podman.
+podman is the only denpendency to use it.
